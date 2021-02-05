@@ -52,7 +52,7 @@ Do shopping
 
     # Type in the forgotten email
     TypeText            Email Address        ted@qentinel.com
-    ClickWhile          Email Address        Send Message
+    ClickText           Send Message
 
     # Verify they will be in touch
     VerifyText          We'll be in touch
