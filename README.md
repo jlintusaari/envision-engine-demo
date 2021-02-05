@@ -1,10 +1,12 @@
 # EnvisionEngine Demo
 
+Link to a YouTube recording of this demo: https://youtu.be/FHD_iQ3oGSc?t=2401
+
 This Robot Framework script shows how to use Qentinel's QVision computer vision
 library in test automation and RPA. It uses the new EnvisionEngine OCR engine
 that provides fast and reliable OCR that runs on commodity hardware. 
-EnvisionEngine achieves its performance using a combination of deep learning
-and probabilistic modelling.
+EnvisionEngine achieves its performance using a combination of image
+processing, deep learning, and probabilistic modelling.
 
 The whole test script relies purely on computer vision extracting UI elements
 from an image of the computer screen and then issuing emulated keyboard and 
